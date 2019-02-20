@@ -1,6 +1,6 @@
 {
   "name": "neeo-sdk-webunity",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Helper class for the custom device drivers created by Webunity.",
   "main": "index.js",
   "dependencies": {
