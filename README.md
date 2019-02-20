@@ -1,5 +1,5 @@
-# neeo-cli-setup
-Instructions how to setup the @neeo/cli for the Neeo remote
+# neeo-cli-webunity
+Helper files for the Webunity Neeo drivers and instructions how to setup the @neeo/cli for the Neeo remote
 
 ## Prerequisites
 In order to use Neeo drivers you need an 'always-on' device capable of running NodeJS >= v6. I recommend a Raspberry Pi which is connected via LAN and connected to the same network as the devices you want to control via custom drivers, to ensure speed and stability.
